@@ -1,6 +1,0 @@
-git init
-git add index.html
-git commit -m "Initial time clock site"
-git branch -M main
-git remote add origin https://github.com/<your-username>/time-clock.git
-git push -u origin main
